@@ -6,4 +6,4 @@
 
 Door Colors is a FoundryVTT module that allows GM users to change the color of door icons through the wall configuration window.
 
-<img src="door-colors-demo.png" width="300">
+<img src="https://github.com/jessev14/door-colors/blob/1cd51e9d9d22819b82a3865037f87e431154e513/door-color-demo.png" width="500">
