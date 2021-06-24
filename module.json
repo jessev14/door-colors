@@ -1,0 +1,19 @@
+{
+    "name": "door-colors",
+    "title": "Door Colors",
+    "description": "Allows GM users to change the color of door icons.",
+    "author": "enso#0361",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.7",
+    "compatibleCoreVersion": "0.8.8",
+    "esmodules": [
+        "scripts/door-colors.js"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ]
+}
